@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -18,17 +16,19 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Photos
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/yunustaha/flight-search-app-nextjs/assets/48367134/0569c8b5-9240-4648-b384-8672331cac35)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/yunustaha/flight-search-app-nextjs/assets/48367134/d72fef1a-119e-4055-a1f2-992ce9de3aff)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://github.com/yunustaha/flight-search-app-nextjs/assets/48367134/7e2ab5c0-447b-494c-aeb4-09e11c887aa8)
 
-## Deploy on Vercel
+![image](https://github.com/yunustaha/flight-search-app-nextjs/assets/48367134/59336743-34cd-43fb-ab3e-af8a97bbea89)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![image](https://github.com/yunustaha/flight-search-app-nextjs/assets/48367134/ee4e8d60-e3a6-4d3f-a36a-234517058fea)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
