@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input-form {
+    @apply border border-solid border-gray-600 rounded text-xs placeholder:text-gray-400 w-full h-9 p-2
+  }
+
+  .btn-form {
+    @apply bg-primary hover:opacity-95 w-full p-3 rounded text-white text-sm font-medium
+  }
+}
